@@ -1,4 +1,12 @@
+## Profile test app
+
+Simple profile list.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo page
+
+[https://janis-rasa.github.io/react-profile-test-app/](https://janis-rasa.github.io/react-profile-test-app/)
 
 ## Available Scripts
 
