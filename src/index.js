@@ -9,7 +9,7 @@ import App from './components/App/App'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    <Router basename="/react-profile-test-app">
       <Provider store={store}>
         <App />
       </Provider>
